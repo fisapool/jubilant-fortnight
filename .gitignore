@@ -109,7 +109,8 @@ dmypy.json
 .pyre/
 
 # Data files (uncomment if you want to ignore large data files)
-# *.csv
-# *.xlsx
-# *.json
-# data/
+*.csv
+*.xlsx
+*.json
+*.zip
+data/
